@@ -38,7 +38,7 @@ _Período: 07/2023 - 09/2023
 _Período: 07/2017 - 07/2023
 
 - Responsável pelo desenvolvimento e manutenção do sistema ERP SisPrinter.
-- - Responsável pelo desenvolvimento e manutenção de toda parte fiscal do SisPrinter, NFe e NFCe.
+- Responsável pelo desenvolvimento e manutenção de toda parte fiscal do SisPrinter, NFe e NFCe.
 - Aprimorou habilidades em novos protocolos um deles foi o SNMP;
 - Contribui como desenvolvimento do sistema PrintCounter (Sistema de Captura de Informações de Impressora com o uso do protocolo SNMP)
 
