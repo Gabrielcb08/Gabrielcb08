@@ -1,6 +1,6 @@
 # Gabriel Costa Brito
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/seu-perfil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](linkedin.com/in/gabrielcb08)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/Gabrielcb08)
 
 ## Sobre Mim 👨‍💻
@@ -67,5 +67,5 @@ _Período: 01/2010 - 12/2012
 ## Contato 📬
 
 - **Email**: gabriel.cb@hotmail.com
-- **LinkedIn**: 
+- **LinkedIn**: linkedin.com/in/gabrielcb08 
 
