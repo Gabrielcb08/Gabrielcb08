@@ -19,7 +19,7 @@ Sou um desenvolvedor de software com 12 anos de experiência. Tenho paixão por 
 
 ### [MVC](https://github.com/Gabrielcb08/MVC-Menus)
 
-### [Cadastro Simples e Configurar 2 Firebird na Maquina](https://github.com/Gabrielcb08/Cadastro-Config2Firebird)
+### [2 Firebird](https://github.com/Gabrielcb08/Cadastro-Config2Firebird)
 Cadastro simples com a possibilidade de configurar duas versões do firebird na mesma máquina, utilizando Delphi para desenvolvimento e o banco de dados Firebird.
 
 
