@@ -53,7 +53,7 @@ _Período: 02/2013 - 07/2016
 
 ### Faculdades Integradas Stella Maris
 **Tecnologia em Analise e Desenvolvimento de Sistemas**  
-_Período: 01/2010 - 12/2023
+_Período: 01/2010 - 12/2012
 
 ## Certificações 📜
 
